@@ -1,0 +1,17 @@
+{
+  "name": "gda",
+  "version": "1.0.0",
+  "description": "lala",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.4.2"
+  },
+  "devDependencies": {
+    "cypress": "^8.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
